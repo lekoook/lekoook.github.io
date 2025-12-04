@@ -1,0 +1,4 @@
+[submodule "serialpp"]
+	path = serialpp
+	url = https://github.com/lekoook/serialpp.git
+	branch = gh-pages
